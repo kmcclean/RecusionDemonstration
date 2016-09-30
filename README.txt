@@ -1,0 +1,1 @@
+This is just a simple example of how to use recursion in a programming setting. It is not ideal, as it have to count with all possible derivations before arriving at a solution, but it does produce the correct result.
